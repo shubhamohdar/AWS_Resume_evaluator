@@ -31,6 +31,7 @@ Usage
 Upload Resume and Job Description: Use the file uploaders to upload your PDF files.
 Update Vector Store: Click the "Vectors Update" button to process and create/update the vector store.
 Evaluate Match and Analyze Skill Gaps: Click the "Evaluate Match and Analyze Skill Gaps" button to get a detailed skill gap analysis and match percentage.
+```
 ##📈 Output
 The tool will provide:
 
